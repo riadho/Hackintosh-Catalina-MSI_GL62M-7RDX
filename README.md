@@ -1,5 +1,5 @@
-# Catalina-MSI_GL62M-7RDX
-Hackintosh Catalina on MSI GL62M-7RDX
+# Hackintosh Catalina-MSI_GL62M-7RDX
+Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
 
     Core i7 7700HQ
     Intel HD 630
