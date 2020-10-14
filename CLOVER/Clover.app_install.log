@@ -1,0 +1,60 @@
+
+Clover Installer r5122 (f4e10b1a2) (installer library v1.1.6), 2020-09-08 06:39:01
+macOS Version 10.15.6 (Build 19G73)
+SELF = /Volumes/Data Drive/riyadho/Downloads/Program/Hackintosh/Apps/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/riyadho/Desktop/CloverBackUp/ADATA SU900 Media/r5119_2020-09-08_06-38-57/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+Installation type: UEFI
+
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *512.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk1         256.0 GB   disk0s2
+   3:       Microsoft Basic Data Data Drive              255.9 GB   disk0s3
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +256.0 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Hackintosh - Data       39.9 GB    disk1s1
+   2:                APFS Volume Preboot                 82.1 MB    disk1s2
+   3:                APFS Volume Recovery                528.8 MB   disk1s3
+   4:                APFS Volume VM                      1.1 GB     disk1s4
+   5:                APFS Volume Hackintosh              11.0 GB    disk1s5
+
+/dev/disk2 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *15.4 GB    disk2
+   1:                        EFI EFI                     209.7 MB   disk2s1
+   2:                  Apple_HFS Install macOS Catalina  9.7 GB     disk2s2
+
+
+
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/AptioMemoryFix.efi
++ ../BIOS/ApfsDriverLoader.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
++ ../doc/UEFI boot with Clover.rtf
++ ../doc/boot1f32-install.sh
++ ../doc/HowToInstallOSX.txt
++ ../doc/HowToFixDsdt.txt
++ ../doc/bcfg.txt
