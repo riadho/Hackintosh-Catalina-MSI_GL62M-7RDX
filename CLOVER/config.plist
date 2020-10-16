@@ -189,7 +189,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>Arguments</key>
-		<string>dart=0 -no_compat_check -wegnoegpu npci=0x2000</string>
+		<string>dart=0 -no_compat_check -wegnoegpu npci=0x2000 lilucpu=8</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Secure</key>
@@ -267,9 +267,9 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>device-id</key>
-				<data>G1kAAA==</data>
+				<data>FhkAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAbWQ==</data>
+				<data>AAAWGQ==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x14,0x2)</key>
 			<dict>
