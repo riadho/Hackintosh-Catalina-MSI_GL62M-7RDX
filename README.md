@@ -5,7 +5,7 @@ Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
     Intel HD 630
     GeForce® GTX 1050
     Intel® HM175 chipset
-		WiFi : Intel Dual Band AC-3168
+    WiFi : Intel Dual Band AC-3168
     Ethernet : Atheros AR8171/8175
     Audio : Realtek ALC898
     Touchpad : Synaptic 1509 PS/2
@@ -27,7 +27,7 @@ Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
     Webcam
     Bluetooth
     HDMI Video
-		HDMI Audio
+    HDMI Audio
     Mini Display Port
 
 # Non-Functioning Components
@@ -36,7 +36,9 @@ Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
     SD card reader
 
 # Instalation Notes
-	Screen Brightnes works, using SCROLL LOCK and PAUSE BREAK Button.
+
+    Screen Brightnes works, using SCROLL LOCK and PAUSE BREAK Button.
+    HDMI Audio, set platform-id and device-id using framebuffer from skylake processor, and add bootargs lilucpu=8.
 
 
 
