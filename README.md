@@ -6,7 +6,7 @@ Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
     GeForce® GTX 1050
     Intel® HM175 chipset
     WiFi : Intel Dual Band AC-3168
-    Ethernet : Atheros AR8171/8175![Screen Shot 2021-02-15 at 15 15 44q](https://user-images.githubusercontent.com/3973430/149916793-e20a70c6-aa69-40d8-bc93-e4274439a4f7.png)
+    Ethernet : Atheros AR8171/8175
 
     Audio : Realtek ALC898
     Touchpad : Synaptic 1509 PS/2
