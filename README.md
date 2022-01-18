@@ -6,7 +6,8 @@ Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
     GeForce® GTX 1050
     Intel® HM175 chipset
     WiFi : Intel Dual Band AC-3168
-    Ethernet : Atheros AR8171/8175
+    Ethernet : Atheros AR8171/8175![Screen Shot 2021-02-15 at 15 15 44q](https://user-images.githubusercontent.com/3973430/149916793-e20a70c6-aa69-40d8-bc93-e4274439a4f7.png)
+
     Audio : Realtek ALC898
     Touchpad : Synaptic 1509 PS/2
     15.6" HD display 1920x1080
@@ -40,5 +41,9 @@ Hackintosh Catalina on MSI GL62M-7RDX using CLOVER V5122
     Screen Brightnes works, using SCROLL LOCK and PAUSE BREAK Button.
     HDMI Audio, set platform-id and device-id using framebuffer from skylake processor, and add bootargs lilucpu=8.
 
+
+![](Screenshot%202020-10-14%20at%2011.41.24.png)
+
+![](Screenshot%202020-10-14%20at%2011.41.36.png)
 
 
